@@ -1,5 +1,5 @@
 # SIR-CAT-Model 🥸🐱
-¡Bienvenido al repositorio de mi proyecto sobre la simulación de la toxoplasmosis! En este proyecto, utilizo MATLAB y NETLOGO para simular el comportamiento de la enfermedad en una población de humanos y gatos. La simulación es determinista y discreta, conservando el número total de individuos en ambas poblaciones, aunque propongo también código para la situación estocástica.
+¡Bienvenido al repositorio de mi proyecto sobre la simulación de la toxoplasmosis! En este proyecto, utilizo MATLAB, R y NETLOGO para simular el comportamiento de la enfermedad en una población de humanos y gatos. La simulación es determinista y discreta, conservando el número total de individuos en ambas poblaciones, aunque propongo también código para la situación estocástica.
 
 # Nombre (SIR-CAT)
 
